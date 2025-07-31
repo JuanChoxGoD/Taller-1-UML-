@@ -1,2 +1,2 @@
-# Taller-1-UML-
+# Taller 1 UML
 Juan Diego Rojas Espitia 
